@@ -16,3 +16,4 @@ git long  --oneline
 - <NAME> Is by convention called origin
 - git remote rm <NAme> removes the remote called <NAME>
 -git remote -v : look at all the remotes you have
+-git pull <WHERE> <WHAT> : pulls the <WHAT> branch in <WHERE> to local computer
