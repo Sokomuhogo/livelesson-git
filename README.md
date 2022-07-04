@@ -1,4 +1,4 @@
-#GIT notes
+#GIT Notes
 - ' git init' : initialize current folder as a git repository
 - 'git clone <url> : brings
 - git status let us know current state
